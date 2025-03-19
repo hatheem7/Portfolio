@@ -1,0 +1,145 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: http://J4jax0FhuCXRcLf:uECWdPdtq9VK1m0@localhost:54170/storage/emulated/0/Hatheem%20.html
+Subject: Portfolio
+Date: Wed, 19 Mar 2025 11:27:55 +0530
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--YNeKVulZfZ2Kc5SS4JfdcbNoAKO3sjdXKwYARMe6Gr----"
+
+
+------MultipartBoundary--YNeKVulZfZ2Kc5SS4JfdcbNoAKO3sjdXKwYARMe6Gr----
+Content-Type: text/html
+Content-ID: <frame-1FED584384E860C68FFF4D5513C559A8@mhtml.blink>
+Content-Transfer-Encoding: binary
+Content-Location: http://J4jax0FhuCXRcLf:uECWdPdtq9VK1m0@localhost:54170/storage/emulated/0/Hatheem%20.html
+
+<!DOCTYPE html><html><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252"><link rel="stylesheet" type="text/css" href="cid:css-3dd213e6-d76d-457f-8595-0537107c199f@mhtml.blink" />
+    <title>Portfolio</title>
+    
+</head>
+<body>
+    <header>
+        <div class="header-content">
+            <!-- Add your profile picture here -->
+            <img src="http://J4jax0FhuCXRcLf:uECWdPdtq9VK1m0@localhost:54170/storage/emulated/0/passport%20photo.jpg" alt="Your Profile Picture" class="profile-picture">
+            <h1>MohamedHatheem A</h1>
+            <p>Computer science</p>
+        </div>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="http://J4jax0FhuCXRcLf:uECWdPdtq9VK1m0@localhost:54170/storage/emulated/0/Hatheem%20.html#about">About</a></li>
+            <li><a href="http://J4jax0FhuCXRcLf:uECWdPdtq9VK1m0@localhost:54170/storage/emulated/0/Hatheem%20.html#education">Education</a></li>
+            <li><a href="http://J4jax0FhuCXRcLf:uECWdPdtq9VK1m0@localhost:54170/storage/emulated/0/Hatheem%20.html#skills">Skills</a></li>
+            <li><a href="http://J4jax0FhuCXRcLf:uECWdPdtq9VK1m0@localhost:54170/storage/emulated/0/Hatheem%20.html#Contact">Contact</a></li>
+            <li><a href="http://J4jax0FhuCXRcLf:uECWdPdtq9VK1m0@localhost:54170/storage/emulated/0/Hatheem%20.html#resume">Resume</a></li>
+           
+        </ul>
+    </nav>
+
+    <section id="about">
+        <div class="section-content">
+            <h2>About Me</h2>
+            <p>I'm a <b>web development</b> expert who is passionate about creating dynamic and user-friendly websites. 
+                Hardworking college student with a motivated attitude and a variety of powerful skills.
+              Adept in various social media platforms and office technology programs.
+              Committed to contributing my expertise in a dynamic office or media production environment.</p>
+
+        </div>
+    </section>
+
+    <section id="education">
+        <div class="section-content">
+            <h2>Education</h2>
+            <p>Madras University -BSC</p>
+          <p>TMG College of arts and science</p>
+            
+            
+        </div>
+    </section><section id="skills">
+        <div class="section-content">
+            <h2>Skills</h2>
+            <ul>
+                <li>python</li>
+                <li>java</li>
+                <li>html</li>
+                <li>Css</li>
+            </ul>
+        </div>
+    </section>
+
+    <section id="Contact">
+        <div class="section-content">
+            <h2>Contact</h2>
+          <label>Username</label>
+          <input type="text"><br><br>
+          <label>Email</label>
+          <input type="text"><br><br>
+        </div>
+    </section>
+
+    <section id="resume">
+    
+        <div class="section-content">
+            <center>
+            <h2>Resume</h2>
+            <a href="http://J4jax0FhuCXRcLf:uECWdPdtq9VK1m0@localhost:54170/storage/emulated/0/Resume(p)" target="_blank" class="download-button">Download CV</a>
+        </center>
+        </div>
+        
+    </section>
+
+    <footer>
+        <p>© 2025 MohamedHatheem A</p>
+    </footer>
+
+    
+
+
+
+
+  
+  <title>Hello, World!</title>
+
+
+  <h1>
+    Hello, World!
+  </h1>
+
+
+</body></html>
+------MultipartBoundary--YNeKVulZfZ2Kc5SS4JfdcbNoAKO3sjdXKwYARMe6Gr----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: cid:css-3dd213e6-d76d-457f-8595-0537107c199f@mhtml.blink
+
+@charset "windows-1252";
+
+body { font-family: Arial, sans-serif; margin: 0px; padding: 0px; background-color: rgb(132, 166, 233); }
+
+header { background-color: rgb(148, 25, 25); color: rgb(255, 255, 255); text-align: center; padding: 2rem 0px; position: relative; }
+
+.header-content h1 { font-size: 2.5rem; }
+
+.profile-picture { width: 100px; height: 100px; border-radius: 75%; object-fit: cover; position: absolute; top: 75px; left: 75px; }
+
+nav { background-color: rgb(51, 51, 51); color: rgb(255, 255, 255); text-align: center; }
+
+nav ul { list-style-type: none; padding: 0px; }
+
+nav ul li { display: inline; margin: 0px 20px; }
+
+nav ul li a { text-decoration: none; color: rgb(255, 255, 255); }
+
+.section-content { background-color: rgb(255, 255, 255); padding: 2rem; margin: 1rem; border-radius: 20px; box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 10px; text-align: justify; }
+
+.download-button { background-color: rgb(51, 51, 51); color: rgb(255, 255, 255); padding: 0.5rem 1rem; text-decoration: none; border-radius: 20px; display: inline-block; margin-top: 10px; align-self: center; }
+
+.download-button:hover { background-color: rgb(85, 85, 85); }
+
+footer { text-align: center; padding: 1rem 0px; background-color: rgb(51, 51, 51); color: rgb(255, 255, 255); }
+
+ul { list-style-type: disc; padding-left: 20px; }
+------MultipartBoundary--YNeKVulZfZ2Kc5SS4JfdcbNoAKO3sjdXKwYARMe6Gr------
